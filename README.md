@@ -2,7 +2,7 @@
 
 Accompanying code and data repository for: 
 
-Ayzenberg, V., Granovetter, M. C., Robert, S., Patterson, C., & Behrmann, M. (2023). Differential functional reorganization of ventral and dorsal visual pathways following childhood hemispherectomy. bioRxiv.
+Ayzenberg, V., Granovetter, M. C., Robert, S., Patterson, C., & Behrmann, M. (2023). Differential functional reorganization of ventral and dorsal visual pathways following childhood hemispherectomy. Developmental Cognitive Neuroscience.https://doi.org/10.1016/j.dcn.2023.101323
 
 
 ### All main-text figures and tables can be recreated in the following notebooks:
